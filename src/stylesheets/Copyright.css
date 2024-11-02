@@ -1,0 +1,11 @@
+.Copyright .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 0;
+}
+
+.Copyright .row * {
+    font-size: 12px;
+    color: var(--dark-gray-2);
+}

@@ -1,0 +1,10 @@
+.CategoryLinks {
+    padding: 30px 0;
+    background: var(--white);
+}
+
+.CategoryLinks .links {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}

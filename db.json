@@ -1,0 +1,121 @@
+{
+    "nav_links": [
+        {"id": 1, "title": "Доставка", "url": "#"},
+        {"id": 2, "title": "Оплата", "url": "#"},
+        {"id": 3, "title": "Отзывы", "url": "#"},
+        {"id": 4, "title": "Вопрос - ответ", "url": "#"},
+        {"id": 5, "title": "Контакты", "url": "#"}
+    ],
+    "logo": [
+        {
+            "img_url": "images/logo.svg",
+            "alt": "logo-image",
+            "text": "BEAUTY",
+            "id": "36d7"
+        }
+    ],
+    "contact_info": [
+        {
+            "phone": "8 (812) 123-45-67",
+            "callback_url": "tel:8 (812) 123-45-67",
+            "btn_text": "Обратный звонок",
+            "address": "198555, Невский пр. 140, офис 140",
+            "id": "48cv4"
+        }
+    ],
+    "category_links": [
+        {"id": 1, "title": "Парикмахерская", "url": "#"},
+        {"id": 2, "title": "Барбершоп", "url": "#"},
+        {"id": 3, "title": "Маникюр", "url": "#"},
+        {"id": 4, "title": "Педикюр", "url": "#"},
+        {"id": 5, "title": "Массаж", "url": "#"},
+        {"id": 6, "title": "Мебель", "url": "#"}
+    ],
+    "intro": [
+        {
+            "title": "Супер кресло",
+            "description": "Текст акции всегда отражает суть, а не просто болтовню, поэтому внимательнее",
+            "btn_text": "Подробнее",
+            "btn_url": "#",
+            "background_url": "images/bg.png",
+            "id": "4a6bt"
+        }
+    ],
+    "offer_heading": [
+        {
+            "title": "Специальные предложения",
+            "img_url": "images/car.svg",
+            "alt": "car-image"
+        }
+    ],
+    "chairs": [
+        {
+            "id": 1,
+            "img_url": "images/chair.png",
+            "alt": "chair-image",
+            "description": "Парикмахерское кресло «Норм» гидравлическое",
+            "price": "9 900 ₽",
+            "btn_text": "Купить",
+            "btn_url": "#"
+        },
+        {
+            "id": 2,
+            "img_url": "images/chair.png",
+            "alt": "chair-image",
+            "description": "Парикмахерское кресло «Норм» гидравлическое",
+            "price": "9 900 ₽",
+            "btn_text": "Купить",
+            "btn_url": "#"
+        },
+        {
+            "id": 3,
+            "img_url": "images/chair.png",
+            "alt": "chair-image",
+            "description": "Парикмахерское кресло «Норм» гидравлическое",
+            "price": "9 900 ₽",
+            "btn_text": "Купить",
+            "btn_url": "#"
+        },
+        {
+            "id": 4,
+            "img_url": "images/chair.png",
+            "alt": "chair-image",
+            "description": "Парикмахерское кресло «Норм» гидравлическое",
+            "price": "9 900 ₽",
+            "btn_text": "Купить",
+            "btn_url": "#"
+        }
+    ],
+    "feedback": [
+        {
+            "id": 1,
+            "title": "Получайте бонусы и подарки",
+            "description": "Каждый месяц разыгрываем 10.000 рублей для наших клиентов",
+            "input_placeholder": "Введите e-mail",
+            "img_url": "images/envelope.svg",
+            "alt": "envelope"
+        }
+    ],
+    "map": [
+        {
+            "id": 2,
+            "title": "Заходите к нам",
+            "description": "Более 300 магазинов по всей России",
+            "btn_text": "Карта магазинов",
+            "btn_url": "#"
+        }
+    ],
+    "social_links": [
+        {"id": 1, "img_url": "images/youtube.svg", "alt": "youtube", "url": "#"},
+        {"id": 2, "img_url": "images/vk.svg", "alt": "vk", "url": "#"},
+        {"id": 3, "img_url": "images/facebook.svg", "alt": "facebook", "url": "#"},
+        {"id": 4, "img_url": "images/instagram.svg", "alt": "instagram", "url": "#"}
+    ],
+    "copyright": [
+        {
+            "text": "Лучший магазин (с) 2019 Все права защищены. Интернет-магазин оборудования для салонов красоты",
+            "privacy_policy": "Политика конфиденциальности",
+            "privacy_policy_url": "#"
+        }
+    ]
+}

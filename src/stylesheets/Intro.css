@@ -1,0 +1,40 @@
+.Intro {
+    position: relative;
+    height: 604px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Intro .content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.Intro .content h1 {
+    font-size: 48px;
+    color: var(--white);
+}
+
+.Intro .content p {
+    width: 308px;
+    margin: 50px 0;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--white);
+}
+
+.Intro .content .btn {
+    display: inline-block;
+    padding: 12px 45px;
+    font-size: 14px;
+    color: var(--white);
+    border-radius: 40px;
+    border: 2px solid var(--white);
+
+    &:hover {
+        color: var(--accent);
+        background: var(--white);
+    }
+}

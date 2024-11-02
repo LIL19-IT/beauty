@@ -1,0 +1,11 @@
+.Navbar nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 17px 0;
+}
+
+.Navbar nav a {
+    font-size: 14px;
+    color: var(--dark);
+}

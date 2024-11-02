@@ -1,0 +1,43 @@
+.Chairs {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin: 16px 0 100px 0;
+}
+
+.Chairs .chair {
+    width: 255px;
+    background: var(--white);
+    text-align: center;
+    padding: 25px 0;
+}
+
+.Chairs .chair .description {
+    width: 195px;
+    margin: 20px auto;
+    font-size: 14px;
+    line-height: 141%;
+    color: var(--dark);
+}
+
+.Chairs .chair .price {
+    font-weight: 500;
+    font-size: 21px;
+    letter-spacing: 0.8px;
+    margin-bottom: 20px;
+}
+
+.Chairs .chair .btn {
+    padding: 7px 38px;
+    border-radius: 30px;
+    font-size: 14px;
+    letter-spacing: 0.8px;
+    color: var(--white);
+    background: var(--accent);
+    border: 2px solid var(--accent);
+
+    &:hover {
+        color: var(--accent);
+        background: var(--white);
+    }
+}

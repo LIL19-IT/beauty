@@ -1,0 +1,9 @@
+.OfferHeading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.OfferHeading img {
+    margin-right: 45px;
+}

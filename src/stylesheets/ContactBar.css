@@ -1,0 +1,39 @@
+.ContactBar {
+    background: var(--white);
+    border-bottom: 1px solid var(--gray);
+}
+
+.ContactBar .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ContactBar .row .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 1.6px;
+    color: var(--accent);
+}
+
+.ContactBar .row .info .tel {
+    margin-right: 40px;
+}
+
+.ContactBar .row .info .btn {
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 14px;
+    border-radius: 40px;
+    border: 2px solid var(--accent);
+
+    &:hover {
+        color: var(--white);
+        background: var(--accent);
+    }
+}
